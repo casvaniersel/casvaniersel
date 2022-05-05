@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development, azure, microsoft, music, gaming
 - 🌱 I’m currently learning devops pipelines
 - 💞️ I’m looking to collaborate on anything cool
-- 📫 How to reach me 🐦  @casvaniersel ✉️  cvaniersel@portiva.nl
+- 📫 How to reach me 🐦  @casvaniersel ✉️  cas.vaniersel@rapidcircle.com
 
 <!---
 casvaniersel/casvaniersel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
